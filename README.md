@@ -1,6 +1,6 @@
 # Growth Rule Verifications
 
-In this repository we provide Python code to verify various claims made in Section 5 of
+In this repository we provide Python code to verify various results from Section 5 of
 
 &nbsp;&nbsp;&nbsp;&nbsp; [GPPSS] *Rotation-invariant web bases from hourglass plabic graphs* ([arXiv: 2306.12501](https://arxiv.org/abs/2306.12501))
 
